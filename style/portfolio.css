@@ -1,0 +1,40 @@
+.banner{
+    display: flex;
+    margin: 0;
+    align-items:center;
+}
+.head-title{
+    
+}
+.btn-primary{
+    height: 30px;
+    border-radius: 5px;
+ background-color: #FD6E0A;
+}
+.banner-title{text-align: bottom;
+
+}
+.simple{
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+.title{
+    display: flex;
+    margin: 0;
+    align-items: center;
+}
+/* my plans */
+.my-plans{
+display: flex;
+}
+.skills-container{
+    display: flex;
+}
+.button-class{
+    background-color: aliceblue;
+}
+.positive{
+display: flex;
+text-align: center;
+}
