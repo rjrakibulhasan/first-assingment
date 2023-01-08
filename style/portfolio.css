@@ -1,8 +1,14 @@
 .banner{
     display: flex;
-    margin: 0;
+    margin: 50px 200px;
     align-items:center;
-}
+    width: 100px;}
+
+.main-banner{
+    display: flex;
+    margin: 0;
+    align-items: center;}
+
 .head-title{
     
 }
@@ -37,4 +43,15 @@ display: flex;
 .positive{
 display: flex;
 text-align: center;
+background-image: url(../images/gradient2.png);
+background-repeat: no-repeat;
+}
+.button-chup{
+    background-color: #FD6E0A;
+  
+}
+.section-class{
+    display: flex;
+    text-align: center;
+  
 }
